@@ -6,8 +6,11 @@ description: "Blog of Segi Henggana"
 baseurl:     ""
 url:         "http://henggana.github.io"
 
+# Disqus
+disqus_short_name: "henggana"
+
 # Google analytics
-google_analytics:
+google_analytics: UA-57998330-1
 
 # Optional features
 animated:           false
