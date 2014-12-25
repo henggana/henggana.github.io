@@ -10,7 +10,7 @@ url:         "http://henggana.github.io"
 disqus_short_name: "henggana"
 
 # Google analytics
-google_analytics: UA-57998330-1
+google_analytics: "UA-57998330-1"
 
 # Optional features
 animated:           false
