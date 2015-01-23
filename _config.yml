@@ -29,7 +29,7 @@ flattr_button:
 
 # Build settings
 markdown:     kramdown
-permalink:    pretty
+permalink:    /:categories/:title
 paginate:     3
 sass:
   compressed: true
