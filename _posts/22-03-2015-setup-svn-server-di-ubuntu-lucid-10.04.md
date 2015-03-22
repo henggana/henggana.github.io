@@ -1,7 +1,8 @@
 ---
-layout: post
-title: Setup SVN Server di Ubuntu 10.04 (Lucid)
+layout:   post
+title:    Setup SVN Server di Ubuntu 10.04 (Lucid)
 comments: true
+summary:  Langkah-langkah bagaimana setup SVN Server di ubuntu 10.04
 ---
 
 Pertama pastikan Apache sudah terinstall:
