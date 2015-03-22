@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://henggana.github.io"
 
 # Disqus
-disqus_short_name: "henggana"
+disqus_shortname: "henggana"
 
 # Google analytics
 google_analytics: "UA-57998330-1"
