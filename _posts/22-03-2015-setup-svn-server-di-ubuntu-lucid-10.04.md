@@ -42,7 +42,7 @@ Kemudian jika kita ingin membuat repositori hanya bisa diakses oleh user yang te
 sudo htpasswd -c /etc/subversion/passwd segi
 {% endhighlight %}
 
-Masukkan password untuk user `segi`. Untuk menambah user lain tambahkan `-c` untuk memastikan user baru ditambahkan ke dalam file bukannya di replace.
+Masukkan password untuk user `segi`. Hilangkan `-c` untuk memastikan user baru ditambahkan ke dalam file bukannya di replace.
 
 Lalu ubah konfigurasi apache supaya repositori bisa diakses melalui web:
 
